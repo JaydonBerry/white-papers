@@ -1,0 +1,14 @@
+# Visual Studio workspace files
+.vs/
+
+# Copilot snapshot artifacts
+**/CopilotSnapshots/
+**/snapshots/
+
+# User-specific IDE files
+*.user
+*.suo
+
+# OS artifacts
+.DS_Store
+Thumbs.db
